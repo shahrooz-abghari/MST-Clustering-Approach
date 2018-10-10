@@ -3,7 +3,7 @@ The following code is used to conduct the experiment for paper: "A minimum spann
 <p align="justify">Abghari, S., Boeva, V., Lavesson, N., Grahn, H., Ickin, S., & Gustafsson, J. 
 "A minimum spanning tree clustering approach for outlier detection in event sequences". 
 In <i>The 17th IEEE International Conference on Machine Learning and Applications Special Session on 
-Machine Learning Algorithms, Systems and Applications</i>, 2018, Orlando, Florida, USA.</p>
+Machine Learning Algorithms, Systems and Applications</i>, December 17-20, 2018, Orlando, Florida, USA.</p>
 
 **Abstract**
 <p align="justify">Outlier detection has been studied in many domains. Outliers arise due to different reasons 
