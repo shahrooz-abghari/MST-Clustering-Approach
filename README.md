@@ -14,3 +14,8 @@ Finally the minimum spanning tree algorithm is used to find groups of outliers. 
 two different real datasets, i.e., smart meter data and video session data. The obtained results have shown that our 
 approach can be applied to narrow down the space of events to a set of potential outliers and facilitate domain experts 
 in further analysis and identification of system level issues.</p>
+
+[PDF](https://ieeexplore.ieee.org/abstract/document/8614207)
+
+# Datasets
+[Elektro Ljubljana, smart meters recorded events dataset](https://data.edincubator.eu/dataset/smart-meters-recorded-events)
