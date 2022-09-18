@@ -106,7 +106,7 @@ log "Checking for latest NPM release"
 #_latest_version=$(cat ./_latest_release | grep -Po '(?<=expanded_assets/v)[^"]+')
 
 # Download nginx-proxy-manager source
-log "Downloading NPM v$_latest_version"
+log "Downloading NPM v2.9.18"
 runcmd 'wget $WGETOPT -c $NPMURL/archive/refs/tags/v2.9.18.tar.gz -O - | tar -xz'
 cd ./nginx-proxy-manager-$_latest_version
 
