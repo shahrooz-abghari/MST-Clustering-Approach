@@ -34,7 +34,7 @@ function error {
 _raw_base="https://github.com/shahrooz-abghari/MST-Clustering-Approach/new/master"
 # Operating system
 _os_type=alpine
-_os_version=3.12
+_os_version=3.16
 # System architecture
 _arch=$(dpkg --print-architecture)
 
