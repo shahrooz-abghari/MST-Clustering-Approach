@@ -31,7 +31,7 @@ function error {
 }
 
 # Base raw github URL
-_raw_base="https://github.com/shahrooz-abghari/MST-Clustering-Approach/new/master"
+_raw_base="https://raw.githubusercontent.com/shahrooz-abghari/MST-Clustering-Approach/master"
 # Operating system
 _os_type=alpine
 _os_version=3.16
