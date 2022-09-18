@@ -107,7 +107,7 @@ _latest_version=$(cat ./_latest_release | grep -Po '(?<=expanded_assets/v)[^"]+'
 
 # Download nginx-proxy-manager source
 log "Downloading NPM v$_latest_version"
-runcmd 'wget $WGETOPT -c $NPMURL/archive/v$_latest_version.tar.gz -O - | tar -xz'
+runcmd 'wget $WGETOPT -c $NPMURL/archive/refs/tags/v$_latest_version.tar.gz -O - | tar -xz'
 cd ./nginx-proxy-manager-$_latest_version
 
 log "Setting up enviroment"
