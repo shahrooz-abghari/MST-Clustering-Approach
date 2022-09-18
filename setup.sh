@@ -1,6 +1,6 @@
 #!/usr/bin/env sh
 TMP=/tmp/npm_install.sh
-URL=https://github.com/shahrooz-abghari/MST-Clustering-Approach/new/master
+URL=https://raw.githubusercontent.com/shahrooz-abghari/MST-Clustering-Approach/master/
 
 if [ "$(uname)" != "Linux" ]; then
   echo "OS NOT SUPPORTED"
